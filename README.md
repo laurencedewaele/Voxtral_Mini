@@ -3,4 +3,4 @@ An app to evaluate Voxtral model capacities : transcribe, translate, chat, with 
   
 App is hosted on HuggingFace : [Voxtral Mini](https://huggingface.co/spaces/Loren/Voxtral_Mini_Evaluation)
 
-<img src="DALL·E 2025-04-20 18.07.17.jpeg" width="400"/>
+<img src="app.png" width="700"/>
