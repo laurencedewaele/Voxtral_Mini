@@ -1,0 +1,11 @@
+mistral-common
+git+https://github.com/huggingface/transformers
+gradio==5.39.0
+pydub
+requests
+torch
+accelerate
+librosa
+validators
+yt-dlp
+demucs
